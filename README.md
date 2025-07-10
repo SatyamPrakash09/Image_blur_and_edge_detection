@@ -19,7 +19,7 @@ A Python project to apply **image blurring** and **edge detection** filters to i
 Image_blur_and_edge_detection/
 ├── image_blur_and_edge-detection.py # main program/code
 ├── README.md #Read me file 
-├── LICSENSE #MIT LICSENSE
+├── LICENSE #MIT LICENSE
 ├── original_images #stores downloaded images from url
 └── out_images/
     ├── blur_images # processed blurred images
